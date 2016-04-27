@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Brandt\\AndroidStudioProjects\\KroBooking\\KroBookingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Brandt\\AndroidStudioProjects\\KroBooking\\KroBookingApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\kenne\\Desktop\\Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\kenne\\Desktop\\Apps\\KroBookingApp\\KroBookingApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }
