@@ -6,11 +6,8 @@
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.10" />
-<<<<<<< HEAD:.idea/gradle.xml
-=======
 
         <option name="gradleJvm" value="1.8" />
->>>>>>> 543219693ade8294602dc9ed02a3d5fd2009b922:KroBookingApp/.idea/gradle.xml
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
