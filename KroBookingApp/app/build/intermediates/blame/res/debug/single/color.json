@@ -12,18 +12,40 @@
         "source": "C:\\Users\\kenne\\Desktop\\Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\switch_thumb_material_light.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\Brandt\\AndroidStudioProjects\\KroBooking\\KroBookingApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
         "source": "C:\\Users\\Brandt\\AndroidStudioProjects\\KroBooking\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\switch_thumb_material_dark.xml"
+=======
+        "merged": "C:\\Users\\Frederik\\Documents\\Android Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Frederik\\Documents\\Android Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_primary_text_material_dark.xml"
+>>>>>>> b6597041411c9445ada2115e81b674030ffd99fb
     },
     {
         "merged": "C:\\Users\\kenne\\Desktop\\Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
         "source": "C:\\Users\\kenne\\Desktop\\Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
+        "merged": "C:\\Users\\Frederik\\Documents\\Android Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Frederik\\Documents\\Android Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Frederik\\Documents\\Android Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Frederik\\Documents\\Android Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Frederik\\Documents\\Android Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Frederik\\Documents\\Android Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Frederik\\Documents\\Android Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Frederik\\Documents\\Android Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
         "merged": "C:\\Users\\kenne\\Desktop\\Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
         "source": "C:\\Users\\kenne\\Desktop\\Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\Brandt\\AndroidStudioProjects\\KroBooking\\KroBookingApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
         "source": "C:\\Users\\Brandt\\AndroidStudioProjects\\KroBooking\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\switch_thumb_material_light.xml"
     },
@@ -34,6 +56,14 @@
     {
         "merged": "C:\\Users\\Brandt\\AndroidStudioProjects\\KroBooking\\KroBookingApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
         "source": "C:\\Users\\Brandt\\AndroidStudioProjects\\KroBooking\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_search_url_text.xml"
+=======
+        "merged": "C:\\Users\\Frederik\\Documents\\Android Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Frederik\\Documents\\Android Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Frederik\\Documents\\Android Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Frederik\\Documents\\Android Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_primary_text_material_light.xml"
+>>>>>>> b6597041411c9445ada2115e81b674030ffd99fb
     },
     {
         "merged": "C:\\Users\\kenne\\Desktop\\Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
@@ -48,6 +78,7 @@
         "source": "C:\\Users\\kenne\\Desktop\\Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\Brandt\\AndroidStudioProjects\\KroBooking\\KroBookingApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
         "source": "C:\\Users\\Brandt\\AndroidStudioProjects\\KroBooking\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_primary_text_material_dark.xml"
     },
@@ -58,6 +89,10 @@
     {
         "merged": "C:\\Users\\Brandt\\AndroidStudioProjects\\KroBooking\\KroBookingApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
         "source": "C:\\Users\\Brandt\\AndroidStudioProjects\\KroBooking\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+=======
+        "merged": "C:\\Users\\Frederik\\Documents\\Android Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Frederik\\Documents\\Android Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_search_url_text.xml"
+>>>>>>> b6597041411c9445ada2115e81b674030ffd99fb
     },
     {
         "merged": "C:\\Users\\kenne\\Desktop\\Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
@@ -66,6 +101,10 @@
     {
         "merged": "C:\\Users\\kenne\\Desktop\\Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
         "source": "C:\\Users\\kenne\\Desktop\\Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Frederik\\Documents\\Android Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Frederik\\Documents\\Android Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\color\\switch_thumb_material_light.xml"
     },
     {
         "merged": "C:\\Users\\kenne\\Desktop\\Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
