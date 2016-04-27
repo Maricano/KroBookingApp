@@ -157,7 +157,11 @@
         ]
     },
     {
+<<<<<<< HEAD
+        "outputFile": "C:\\Users\\Brandt\\AndroidStudioProjects\\KroBooking\\KroBookingApp\\app\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
         "outputFile": "C:\\Users\\Frederik\\Documents\\Android Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> b6597041411c9445ada2115e81b674030ffd99fb
         "map": [
             {
                 "to": {
@@ -168,7 +172,11 @@
                     "endOffset": 119
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\Brandt\\AndroidStudioProjects\\KroBooking\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
                     "file": "C:\\Users\\Frederik\\Documents\\Android Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> b6597041411c9445ada2115e81b674030ffd99fb
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -187,7 +195,11 @@
                     "endOffset": 189
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\Brandt\\AndroidStudioProjects\\KroBooking\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
                     "file": "C:\\Users\\Frederik\\Documents\\Android Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> b6597041411c9445ada2115e81b674030ffd99fb
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -206,7 +218,11 @@
                     "endOffset": 263
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\Brandt\\AndroidStudioProjects\\KroBooking\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
                     "file": "C:\\Users\\Frederik\\Documents\\Android Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> b6597041411c9445ada2115e81b674030ffd99fb
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -225,7 +241,11 @@
                     "endOffset": 339
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\Brandt\\AndroidStudioProjects\\KroBooking\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
                     "file": "C:\\Users\\Frederik\\Documents\\Android Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> b6597041411c9445ada2115e81b674030ffd99fb
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -244,7 +264,11 @@
                     "endOffset": 398
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\Brandt\\AndroidStudioProjects\\KroBooking\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
                     "file": "C:\\Users\\Frederik\\Documents\\Android Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> b6597041411c9445ada2115e81b674030ffd99fb
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -263,7 +287,11 @@
                     "endOffset": 469
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\Brandt\\AndroidStudioProjects\\KroBooking\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
                     "file": "C:\\Users\\Frederik\\Documents\\Android Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> b6597041411c9445ada2115e81b674030ffd99fb
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -282,7 +310,11 @@
                     "endOffset": 537
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\Brandt\\AndroidStudioProjects\\KroBooking\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
                     "file": "C:\\Users\\Frederik\\Documents\\Android Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> b6597041411c9445ada2115e81b674030ffd99fb
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -301,7 +333,11 @@
                     "endOffset": 592
                 },
                 "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\Brandt\\AndroidStudioProjects\\KroBooking\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
                     "file": "C:\\Users\\Frederik\\Documents\\Android Apps\\KroBookingApp\\KroBookingApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> b6597041411c9445ada2115e81b674030ffd99fb
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
